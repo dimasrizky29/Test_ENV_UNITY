@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class SetupEnv : MonoBehaviour
 {
-    private readonly string filename = "prod";
+    private readonly string filename = "dev";
 
     private void Awake()
     {
